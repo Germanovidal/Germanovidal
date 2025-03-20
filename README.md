@@ -4,7 +4,7 @@
 ## **`Desenvolvedor Back-end`**  
 
 <p>
-  Olá 👋, sou formado em Análise e Desenvolvimento de Sistemas e estou cursando o 2° período de Ciência da Computação, possuo boa proficiência em JAVA, C++, Node.js e Python. Desde sempre fui apaixonado por tecnologia e programar é algo que me desperta grande satisfação por me colocar próximo as inovações que melhoram o cotidiano das pessoas..
+  Olá 👋, sou formado em Análise e Desenvolvimento de Sistemas e estou cursando o 2° período de Ciência da Computação, possuo boa proficiência em JAVA, C++, Node.js e Python. Desde sempre fui apaixonado por tecnologia e programar é algo que me desperta grande satisfação por me colocar próximo as inovações que melhoram o cotidiano das pessoas.
 
   - 🖥️ Atualmente sou estudante de Ciencia da Computação em <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
