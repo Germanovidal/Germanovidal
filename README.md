@@ -1,10 +1,10 @@
 <!--título-->
 # 🧑‍💻 Germano Vidal
 
-**`Desenvolvedor FullStack`**
+## **`Desenvolvedor Back-end`**  
 
 <p>
-  Olá 👋, sou recém formado em Análise e Desenvolvimento de Sistemas e estou cursando o 2° período de Ciência da Computação, possuo boa proficiência em HTML, CSS, Python, e JAVA. Desde sempre fui apaixonado por tecnologia e programar é algo que me desperta grande satisfação por me colocar próximo as inovações que melhoram o cotidiano das pessoas..
+  Olá 👋, sou formado em Análise e Desenvolvimento de Sistemas e estou cursando o 2° período de Ciência da Computação, possuo boa proficiência em JAVA, C++, Node.js e Python. Desde sempre fui apaixonado por tecnologia e programar é algo que me desperta grande satisfação por me colocar próximo as inovações que melhoram o cotidiano das pessoas..
 
   - 🖥️ Atualmente sou estudante de Ciencia da Computação em <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
@@ -47,15 +47,15 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="margin-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=Germanovidal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Germanovidal&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Germanovidal&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  
   />  
-
-</p>  
+</p>
+ 
